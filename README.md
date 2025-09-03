@@ -1,0 +1,1 @@
+# cpp-boilerplate-link-a-lib
