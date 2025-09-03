@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2Notes", "Class2Notes\Class2Notes.vcxproj", "{2E881B39-5A6C-4D03-A17E-7BD0A21B76EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plib", "Class2Notes\Class2Notes.vcxproj", "{2E881B39-5A6C-4D03-A17E-7BD0A21B76EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MApp", "MApp\MApp.vcxproj", "{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{2E881B39-5A6C-4D03-A17E-7BD0A21B76EC}.Release|x64.Build.0 = Release|x64
 		{2E881B39-5A6C-4D03-A17E-7BD0A21B76EC}.Release|x86.ActiveCfg = Release|Win32
 		{2E881B39-5A6C-4D03-A17E-7BD0A21B76EC}.Release|x86.Build.0 = Release|Win32
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Debug|x64.ActiveCfg = Debug|x64
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Debug|x64.Build.0 = Debug|x64
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Debug|x86.Build.0 = Debug|Win32
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Release|x64.ActiveCfg = Release|x64
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Release|x64.Build.0 = Release|x64
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Release|x86.ActiveCfg = Release|Win32
+		{8DCC86BE-3CD2-45E8-9520-6C2CA3A20050}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
